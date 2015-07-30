@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\estimote-sdk-preview\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="70c50b7a315e4ff4045ff7a4e6f1944cfc0a3b94">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-ab8cc6dbc77a172959c489acb879247f6d0dad93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-e0cf21ef9c3246688ddbebd9e20e96ed39c5037a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-191e9a2cd5a20b4853b1382fbbb3c0ac2d872f8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-a414a9f2e22da74ae3f9f0800a3c881d0287a4b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-135320adbb972879d946baef7a153ae7a8eef32a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-2e876c77b4f4cfdf97c9e834f6776d29eb97016d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-d5388d3f3a92248f1bc6acccfb984d6c7cd0f06d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-834c9d32c3202149dd40de1499619129c6ca01d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-c76959cd18f939fb9d00f853237a116408f8c5fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-fe6676f3559e0a57e9ae4e3d1bf4c122cf79ca3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2b7121ec47e157d84af46f3f08794dfcccb3053d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-203af47ec92fe1b6491183389e73c54223ed0712.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-f8182b51af3fd3dfdfbdd557974e782b39f38be5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-d44dca4d5e01958ebec2af39912339dda2b8e6fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-3c2d3f7d522b65da0cff1e0a4ba320e95152676a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-125c9f38ff63a2c84d8fa0090c7aed24b83b59bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-1f4072d44f3d39ddcb2581f6ec6d437892957319.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\libs\android-google-maps-api13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb4cfba54ee01f7cc1ce1d98e14468dcd86a2d4f">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\android-google-maps-api13-037857d4e7b97a9a6536853878c0f7025187c37e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-6dc587126bf6d3b47394b0f856bb127e26574d90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-b1a55eec1b79ac4fe379447d22c12f010e1d6c80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-67828cb07909ea1d7fef68d94b134894c2ae8a74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-589b84589b4ba4c9a954d57de0ad070caa8de325.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-1a4d565c1129b99df9ba5bb68bb454d4da021afe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-aab6081ee478aaa919f541eb8327d312ce4842bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-1c18dbbfa656b405dac20f546025021e0278570a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-ba6ef5a8c9f4d6361e4addb7abd7ab0257a68c9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-d83f907d227ac8620e6d3b73dffbfd6c2f3bd418.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-ada64e6f33bfb26e2853589e03d7afc8b7196cb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-8a49a0345f98d2f6a3264cd641bc11941ee5198a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-e37f24679067c1edaf5f2e036b83472b10117a50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-756054d249a7ea5fe44a4f4a0c32a1720e51e608.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-e86a88fb7780ab41c6e0b0771c68ff477cc0ed0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-fa49a978290f8fdf68638af5f528f12899b8fbd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-259f7d6a9d90740e148375afcb587001f62b304f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-fbe066715b1def3727a8b0a6ca03e19ec9b24f71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\libs\android-google-maps-api13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb4cfba54ee01f7cc1ce1d98e14468dcd86a2d4f">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\android-google-maps-api13-acbc1501ec706083d099029a9f77bd81b293f6a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-6205eb71843da0c790ed7646aeb7aea8821dedc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e5a00d663f51d58d0e1d809b987b8feb6298fc84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-ab4e29bef15c842e2be47c5e131fabf701354328.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-607beafb132073271c63a38434e64dea3fa04677.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-64f7dfb36460ebd51103f1346f952b8c04062bd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-f5610597bc918d155816e719905b74d21b5fac62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="62681b8212ca52278feafec31775fd0cb096d99a">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.3.0-jar-with-dependencies-43e7e2854cba2e83422dce047455aa0658fb2be0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-d53d8f556685cf7d82fd826c8b3119c5d7ce40bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="62681b8212ca52278feafec31775fd0cb096d99a">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.3.0-jar-with-dependencies-36e3ccda685af41ea5e204d9d353af639ddb816e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-590d59cb46dc4b5b45d864d923b47aef8dba5d49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-d78c6ea1c0ee875b3261559827d6d2e7d86771ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-4332cb26b9b421c4a6b07c1f2a0c8e55e25b5445.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-ab1971f99f9a9c29569cb73d7311d5b7e70c6c68.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-f04ea91782beeb47ff94b225c55b55f1cdf93b8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-76ebe6c9966a79b2041967f503b1d88381ebc035.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-abc97889e139778ece78a66f68d2d38bc6cad448.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-beacons\app\build\intermediates\pre-dexed\debug\classes-2560947fdee44b23f86db369b42b01cf27f03dd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-2848d57877c6c353f0e0c643f4143a15c79e00d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-6d03003e1d2c6f3b3407d7722bb6db913035b9f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Megan\Documents\WiFi-Locator-master\app\build\intermediates\pre-dexed\debug\classes-c3bd6400fcf51080e3d66f7257e84c2cd2831632.jar" />
+    </item>
+
+</items>

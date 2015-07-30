@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="estimote-sdk-preview-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/estimote-sdk-preview/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/estimote-sdk-preview/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
